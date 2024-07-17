@@ -1,1 +1,1 @@
-TOKEN = "bot token in here"
+TOKEN = "bot token in here" # make sure to add prilveged intents

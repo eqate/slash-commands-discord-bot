@@ -9,7 +9,7 @@ bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 
 @bot.event
 async def on_ready():
-    print("Bot is alive")
+    print("Bot is alive") # in console when the bot gets turned on
     try:
         synced = await bot.tree.sync()
         print(f"Synced {len(synced)} command(s)") # this is needed for syncing commands up to bot.

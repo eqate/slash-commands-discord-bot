@@ -2,8 +2,14 @@
 
 Bot template for discord slash commands
 
-## ⚙️__Installation__
+## ⚙️ Installation
 
 put bot token in config.py
 run main.py
 install necessary packages (if applicable)
+
+## ❓ Project
+
+I will probably not update this unless it gets some traction.
+This was only meant for learning how to create a discord bot (with slash commands)
+Hope you use this to make a verified and successful bot!

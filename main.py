@@ -12,7 +12,7 @@ async def on_ready():
     print("Bot is alive")
     try:
         synced = await bot.tree.sync()
-        print(f"Synced {len(synced)} command(s)")
+        print(f"Synced {len(synced)} command(s)") # this is needed for syncing commands up to bot.
     except Exception as e:
         print(e)
 @bot.tree.command(name="test")

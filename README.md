@@ -4,11 +4,11 @@ Bot template for discord slash commands
 
 ## ⚙️ Installation
 
-put bot token in config.py
+1. put bot token in config.py
 
-run main.py
+2. run main.py
 
-install necessary packages (if applicable)
+>> install necessary packages (if applicable)
 
 ## ❓ Project
 
